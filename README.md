@@ -1,0 +1,1 @@
+This project is aimed to build a system for automatic monitoring of  the online textual content on various social media websites to detect hateful and offensive comments targeting specific group in the society mainly on the basis gender biasness and racial discrimination. 
